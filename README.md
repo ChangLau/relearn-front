@@ -15,3 +15,5 @@
 [3.基本类型](https://github.com/Wofluently/relearn-front/blob/master/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/3.%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B.md)
 
 [4.操作符](https://github.com/Wofluently/relearn-front/blob/master/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/4.%E6%93%8D%E4%BD%9C%E7%AC%A6.md)
+
+[5.语句](https://github.com/Wofluently/relearn-front/blob/master/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/5.%E8%AF%AD%E5%8F%A5.md)
