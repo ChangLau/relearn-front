@@ -19,3 +19,5 @@
 [5.语句](https://github.com/Wofluently/relearn-front/blob/master/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/5.%E8%AF%AD%E5%8F%A5.md)
 
 [6.函数](https://github.com/Wofluently/relearn-front/blob/master/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/6.%E5%87%BD%E6%95%B0.md)
+
+[7.基本类型和引用类型的值](https://github.com/Wofluently/relearn-front/blob/master/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/7.%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B%E5%92%8C%E5%BC%95%E7%94%A8%E7%B1%BB%E5%9E%8B%E7%9A%84%E5%80%BC.md)
