@@ -26,6 +26,8 @@
 
 [9.垃圾收集](https://github.com/ChangLau/relearn-front/blob/master/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/9.%E5%9E%83%E5%9C%BE%E6%94%B6%E9%9B%86.md)
 
-[10.Object类型](https://github.com/ChangLau/relearn-front/blob/master/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/10.Object%E7%B1%BB%E5%9E%8B.md)
+[10.Object 类型](https://github.com/ChangLau/relearn-front/blob/master/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/10.Object%E7%B1%BB%E5%9E%8B.md)
 
-[11.Array类型](https://github.com/ChangLau/relearn-front/blob/master/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/11.Array%E7%B1%BB%E5%9E%8B.md)
+[11.Array 类型](https://github.com/ChangLau/relearn-front/blob/master/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/11.Array%E7%B1%BB%E5%9E%8B.md)
+
+[12.Date 类型](https://github.com/ChangLau/relearn-front/blob/master/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/12.Date%E7%B1%BB%E5%9E%8B.md)
