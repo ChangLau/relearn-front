@@ -31,3 +31,5 @@
 [11.Array 类型](https://github.com/ChangLau/relearn-front/blob/master/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/11.Array%E7%B1%BB%E5%9E%8B.md)
 
 [12.Date 类型](https://github.com/ChangLau/relearn-front/blob/master/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/12.Date%E7%B1%BB%E5%9E%8B.md)
+
+[13.RegExp 类型](https://github.com/ChangLau/relearn-front/blob/master/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/13.RegExp%E7%B1%BB%E5%9E%8B.md)
