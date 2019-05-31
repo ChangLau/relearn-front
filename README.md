@@ -33,3 +33,9 @@
 [12.Date 类型](https://github.com/ChangLau/relearn-front/blob/master/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/12.Date%E7%B1%BB%E5%9E%8B.md)
 
 [13.RegExp 类型](https://github.com/ChangLau/relearn-front/blob/master/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/13.RegExp%E7%B1%BB%E5%9E%8B.md)
+
+[14.Function 类型 ](https://github.com/ChangLau/relearn-front/blob/master/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/14.Function%E7%B1%BB%E5%9E%8B.md)
+
+[15.基本包装类型 Boolean、Number、String](<https://github.com/ChangLau/relearn-front/blob/master/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/15.%E5%9F%BA%E6%9C%AC%E5%8C%85%E8%A3%85%E7%B1%BB%E5%9E%8B(Boolean%E3%80%81Number%E3%80%81String).md>)
+
+[16.单体内置对象 Global、Math](<https://github.com/ChangLau/relearn-front/blob/master/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/16.%E5%8D%95%E4%BD%93%E5%86%85%E7%BD%AE%E5%AF%B9%E8%B1%A1(Global%E3%80%81Math).md>)
